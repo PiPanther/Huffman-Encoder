@@ -13,7 +13,7 @@ class BitwiseRead {
 private:
   char buf;
   //int first;
-  int nbits;        //how many bits have been read from the buffer
+  int nbits;        //how many bits have been read from buffer
   istream& in;
 public:
 
